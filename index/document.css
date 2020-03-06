@@ -1,0 +1,44 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ .p, p { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; margin:0pt; }
+ .s1 { color: #231F20; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 21pt; }
+ .s2 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 23.5pt; }
+ .s3 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 13.5pt; }
+ .s4 { color: #231F20; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s5 { color: #231F20; font-family:"Helvetica Neue", sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s6 { color: #231F20; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s7 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s8 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8.5pt; }
+ .s10 { color: #231F20; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8.5pt; }
+ .s11 { color: #231F20; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s12 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 13pt; }
+ .s13 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11.5pt; }
+ .s14 { color: #231F20; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11.5pt; }
+ .s15 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 53.5pt; }
+ .s16 { color: #231F20; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s17 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 3pt; }
+ .s18 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8.5pt; }
+ .s19 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8.5pt; }
+ .s20 { color: #231F20; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s21 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s22 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s23 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 28pt; }
+ .s24 { color: #231F20; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9.5pt; }
+ .s25 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9.5pt; }
+ .s26 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 4pt; }
+ .s27 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s28 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; vertical-align: 3pt; }
+ .s30 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }
+ .s31 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s32 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9.5pt; }
+ .s33 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9.5pt; }
+ .s34 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; vertical-align: 3pt; }
+ .s35 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s36 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s37 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 3pt; }
+ .s38 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s39 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9.5pt; vertical-align: -1pt; }
+ .s40 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: -1pt; }
+ .s41 { color: #231F20; font-family:"Helvetica Neue", sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9.5pt; }
+ .s42 { color: #231F20; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s43 { color: #231F20; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ table, tbody {vertical-align: top; overflow: visible; }
